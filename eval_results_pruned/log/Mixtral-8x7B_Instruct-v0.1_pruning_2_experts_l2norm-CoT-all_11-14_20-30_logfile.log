@@ -1,0 +1,73 @@
+2025-11-14 20:30:41,661 DEBUG open file: /root/.cache/huggingface/datasets/TIGER-Lab___mmlu-pro/default/0.0.0/dd36ce4b34827164989f100331f82c5a29741747/dataset_info.json
+2025-11-14 20:30:41,680 DEBUG open file: /root/.cache/huggingface/datasets/TIGER-Lab___mmlu-pro/default/0.0.0/dd36ce4b34827164989f100331f82c5a29741747/dataset_info.json
+2025-11-14 20:30:42,419 INFO selected subjects:
+business
+law
+psychology
+biology
+chemistry
+history
+other
+health
+economics
+math
+physics
+computer science
+philosophy
+engineering
+2025-11-14 20:30:42,420 INFO evaluating biology
+2025-11-14 20:38:12,981 INFO 717size batch costing time: 448.31462502479553
+2025-11-14 20:38:25,317 INFO this batch accu is: 0.602510460251046, corr: 432.0, wrong: 285.0
+
+2025-11-14 20:38:25,325 INFO evaluating business
+2025-11-14 20:45:01,189 INFO 789size batch costing time: 393.82743859291077
+2025-11-14 20:45:06,246 INFO this batch accu is: 0.35361216730038025, corr: 279.0, wrong: 510.0
+
+2025-11-14 20:45:06,253 INFO evaluating chemistry
+2025-11-14 20:58:42,991 INFO 1132size batch costing time: 813.6595084667206
+2025-11-14 20:58:56,376 INFO this batch accu is: 0.2703180212014134, corr: 306.0, wrong: 826.0
+
+2025-11-14 20:58:56,387 INFO evaluating computer science
+2025-11-14 21:03:52,723 INFO 410size batch costing time: 294.9662010669708
+2025-11-14 21:03:54,984 INFO this batch accu is: 0.4121951219512195, corr: 169.0, wrong: 241.0
+
+2025-11-14 21:03:54,989 INFO evaluating economics
+2025-11-14 21:10:54,104 INFO 844size batch costing time: 416.76320028305054
+2025-11-14 21:10:57,908 INFO this batch accu is: 0.5011848341232228, corr: 423.0, wrong: 421.0
+
+2025-11-14 21:10:57,915 INFO evaluating engineering
+2025-11-14 21:20:33,555 INFO 969size batch costing time: 573.3172297477722
+2025-11-14 21:20:37,264 INFO this batch accu is: 0.28792569659442724, corr: 279.0, wrong: 690.0
+
+2025-11-14 21:20:37,274 INFO evaluating health
+2025-11-14 21:26:56,882 INFO 818size batch costing time: 377.3192479610443
+2025-11-14 21:27:00,730 INFO this batch accu is: 0.4339853300733496, corr: 355.0, wrong: 463.0
+
+2025-11-14 21:27:00,738 INFO evaluating history
+2025-11-14 21:30:59,936 INFO 381size batch costing time: 233.43005061149597
+2025-11-14 21:31:00,769 INFO this batch accu is: 0.4645669291338583, corr: 177.0, wrong: 204.0
+
+2025-11-14 21:31:00,775 INFO evaluating law
+2025-11-14 21:41:08,557 INFO 1101size batch costing time: 603.4174718856812
+2025-11-14 21:41:15,248 INFO this batch accu is: 0.2615803814713896, corr: 288.0, wrong: 813.0
+
+2025-11-14 21:41:15,262 INFO evaluating math
+2025-11-14 22:02:52,767 INFO 1351size batch costing time: 1293.1719808578491
+2025-11-14 22:03:20,780 INFO this batch accu is: 0.3027387120651369, corr: 409.0, wrong: 942.0
+
+2025-11-14 22:03:20,795 INFO evaluating other
+2025-11-14 22:09:17,334 INFO 924size batch costing time: 354.28819966316223
+2025-11-14 22:09:18,862 INFO this batch accu is: 0.4004329004329004, corr: 370.0, wrong: 554.0
+
+2025-11-14 22:09:18,869 INFO evaluating philosophy
+2025-11-14 22:13:20,987 INFO 499size batch costing time: 240.90137004852295
+2025-11-14 22:13:40,899 INFO this batch accu is: 0.40480961923847697, corr: 202.0, wrong: 297.0
+
+2025-11-14 22:13:40,905 INFO evaluating physics
+2025-11-14 22:25:25,615 INFO 1299size batch costing time: 701.1077072620392
+2025-11-14 22:25:39,058 INFO this batch accu is: 0.2956120092378753, corr: 384.0, wrong: 915.0
+
+2025-11-14 22:25:39,070 INFO evaluating psychology
+2025-11-14 22:30:59,745 INFO 798size batch costing time: 318.18282675743103
+2025-11-14 22:31:00,917 INFO this batch accu is: 0.5714285714285714, corr: 456.0, wrong: 342.0
+
